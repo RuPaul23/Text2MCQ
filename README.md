@@ -5,6 +5,9 @@
 The "text2mcq" repository contains three text generation models for various purposes: normal subjective text generation, question subjective text generation, and objective text generation. 
 These models can be used to generate text for a variety of applications such as natural language generation, text augmentation, and more.
 
+## Note:
+The models are currently under development, and there may be some errors. We will continue to update the repository to improve their performance and reliability.
+
 ## Installation
 
 To use these models, you need to follow these installation steps:
